@@ -1,8 +1,6 @@
 # ts study
 
-最初にやる
-```shell
-npm install --save-dev \
-typescript \
-ts-node
-```
+もくじ
+
+* ts_code はウェブブラウザ用
+* ts_node_code はnode js サーバー用
