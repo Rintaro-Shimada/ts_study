@@ -31,3 +31,15 @@ npm install ts-node --save-dev
 ```shell
 npm install nodemon --save-dev
 ```
+
+## 実行
+
+live mode
+```shell
+npm run start
+```
+
+build mode
+```shell
+npm run build
+```
